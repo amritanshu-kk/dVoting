@@ -2,7 +2,7 @@
 
 A decentralized voting system based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.
 
-> To test my learnings about blockchain from my H.O.D I’ve developed this blockchain based web app using ethereum which was tested by students of my classroom to select monitor using this decentralised voZng plaform.
+> To test my learnings about blockchain from my H.O.D I’ve developed this blockchain based web app using ethereum which was tested by students of my university in during university election.
 
 ## System Workflow
 
